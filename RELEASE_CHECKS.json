@@ -1,0 +1,10 @@
+{
+  "review_date": "2026-10-29",
+  "checks": {
+    "local_links_checked": true,
+    "private_source_catalog_excluded": true,
+    "scripts_and_styles_preserved": true,
+    "original_printable_edition_retained": true
+  },
+  "scope": "Source packaging and reproducibility. No new real-person or physical-device study was performed."
+}
