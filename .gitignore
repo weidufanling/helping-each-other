@@ -5,3 +5,9 @@ node_modules/
 work/
 private/
 coverage/
+
+# Security baseline: local credentials and private scan material
+!.env.example
+security-reports/
+__pycache__/
+*.py[cod]
